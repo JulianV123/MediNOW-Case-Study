@@ -61,7 +61,7 @@ distinct Personas, as well as map their respecting user journeys.
 ![Michael Miller](images/persona1.png)
 
 # Persona 2
-![Sophie Jones](images/persona2.png)
+![Sarah Jones](images/persona2.png)
 
 # User Journey Mapping – Michael
 ![Michael Miller](images/map1/map1.png)
@@ -73,8 +73,8 @@ user that our application displays all of the necessary tabs (Home, Notification
 and provides a checklist of completed tasks, so that the user can safely exit the app knowing that
 every important reminder was set, and all necessary appointments were scheduled.
 
-# User Journey Mapping – Sophie
-![Sophie Jones](images/map2.png)
+# User Journey Mapping – Sarah
+![Sarah Jones](images/map2.png)
 
 When it comes to Sarah’s user journey, we really want to emphasize the importance of our app’s
 efficiency and lack of time wasting. All tasks can be done in a quick fashion, so that Sarah can
